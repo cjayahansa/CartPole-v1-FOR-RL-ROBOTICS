@@ -21,8 +21,11 @@ The goal is to **maximize the total reward**, achieved by keeping the pole balan
 
 
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://drive.google.com/file/d/18xDInJd_nALq3RsG6aQhGNbqegrsw3qY/view?usp=drive_link)
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg)](https://drive.google.com/file/d/160tspPztNfcQbB76HVJQom0j1Qu4QqYX/view?usp=drive_link)
+[![Watch the video_without Agent]](https://drive.google.com/file/d/18xDInJd_nALq3RsG6aQhGNbqegrsw3qY/view?usp=drive_link).
+---
+[![Watch the video with Agent]](https://drive.google.com/file/d/160tspPztNfcQbB76HVJQom0j1Qu4QqYX/view?usp=drive_link).
+---
+
 
 
 ---
