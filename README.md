@@ -72,7 +72,4 @@ The goal is to **maximize the total reward**, achieved by keeping the pole balan
 5. **Model Evaluation**
    - After training, the model is tested to check how long it can balance the pole.
 
----
-
-## 📁 Project Structure
 
